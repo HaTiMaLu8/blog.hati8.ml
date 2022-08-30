@@ -1,4 +1,4 @@
-baseurl = "https://blist.vercel.app"
+baseurl = "https://blog.hati8.ml"
 metaDataFormat = "yaml"
 title = "はちまるPCブログ"
 theme = "blist"
