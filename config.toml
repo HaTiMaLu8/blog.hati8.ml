@@ -1,4 +1,4 @@
-baseurl = "https://blog.hati8.ml"
+baseurl = "https://hatimalu.net"
 metaDataFormat = "yaml"
 title = "はちまるPCブログ"
 theme = "blist"
