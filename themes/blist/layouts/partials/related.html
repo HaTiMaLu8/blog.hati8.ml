@@ -3,7 +3,7 @@
 <h1 style="font-size: 25px; text-align: center; margin-bottom: 50px;"><b>関連記事</h1>
 <ul style="text-align: center;">
     {{ range . }}
-    <li><a href="{{ .RelPermalink }}">{{ .Title }}<img src="{{ .Params.thumbnail }}" alt="thum" style="margin-right:40%; margin-left:40%; margin-bottom: 50px;"></a></li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}<img src="{{ .Params.thumbnail }}" alt="thum" style="margin-right:40%; margin-left:40%; margin-bottom: 50px;"></a>
     {{ end }}
 </ul>
 {{ end }}
