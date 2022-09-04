@@ -1,6 +1,6 @@
 ---
-author: Katheryn Fox
-title: Home of Katheryn Fox
-date: 2021-07-15
+author: はちまる
+title: はちまるPCブログ-高校生はちまるのレビューまとめ
+date: 2022-09-01
 ---
 
