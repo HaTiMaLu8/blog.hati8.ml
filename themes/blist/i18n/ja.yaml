@@ -16,7 +16,7 @@
 - id: newerPosts
   translation: "新しい投稿"
 - id: previousPost
-  translation: "Letzter Post"
+  translation: "前の投稿"
 - id: nextPost
   translation: "次の投稿"
 - id: readTime
