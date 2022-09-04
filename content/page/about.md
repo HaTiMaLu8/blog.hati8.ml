@@ -1,10 +1,12 @@
 ---
-author: Hatimalu
-title: About Me
+author: はちまる
+title: はちまるについて
 date: 2022-08-30
 description:
-keywords: ["about-us", "hatimalu", "contact"]
+keywords: ["はちまるについて", "はちまる"]
 type: about
 ---
 
+
 どうもこんにちは。ブログ管理人の現高校生のはちまるです。
+このサイトではおもにPC系のレビューまとめやHow toといった内容のブログをやる予定です。

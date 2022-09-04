@@ -1,4 +1,4 @@
 ---
 author: はちまる
-title: Blog
+title: ブログ一欄
 ---

@@ -2,6 +2,7 @@ baseurl = "https://hatimalu.net"
 metaDataFormat = "yaml"
 title = "はちまるPCブログ"
 theme = "blist"
+hasCJKLanguage = true
 
 DefaultContentLanguage = "ja"
 DefaultContentLanguageInSubdir = true
@@ -11,7 +12,7 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "Japanese"
     [languages.ja.params]
-      introTitle = "はちまるブログ。"
+      introTitle = "はちまるPCブログ"
       introSubtitle = "高校生はちまるのレビューまとめ"
       introPhoto = "/picture.svg"
       logo = "/hati-logo.svg"
