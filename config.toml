@@ -62,7 +62,7 @@ DefaultContentLanguageInSubdir = true
 [params.homepage.social]
   # Global params common for both languages
   title = "フォローよろしくお願いします!"
-  description = "お問い合わせやご連絡はTwitterのDMにお願いします！"
+  description = "お問い合わせやお仕事のご依頼はTwitterのDMまたは dm@hatimalu.net にお願いします！"
   twitter = "https://twitter.com/hatimalu_html"
   github = "https://github.com/HaTiMaLu8"
 
